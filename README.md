@@ -1,7 +1,2 @@
 
-syam maya
-<<<<<<< HEAD
-hello
-=======
-hai
->>>>>>> git1 committed
+edited new file and added some congtent
